@@ -6,11 +6,6 @@ O Projeto de interface foi desenvolvido através da plataforma Figma; Com uma te
 
 ## User Flow -  FIGMA - Interface Geral ![Captura de Tela (97)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0398e245-9983-47d0-93a2-f0ac92e1dacd)
 
-A priemira parte superior abaixo do navbar terá uma pequena descrição do nosso site, juntamente com a logo
-
-Abaixo nota-se uma barra de pesquisa para buscar jogos através do nome 
-
-No canto esquerdo terá um atalho para o usuário buscar jogos através de categorias
 
 Página Inicial 
 ![e0a8164c-4862-4d94-99e9-7b5a71749892](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/12b37d45-0248-43c0-9e90-6a7d473d33d8)
