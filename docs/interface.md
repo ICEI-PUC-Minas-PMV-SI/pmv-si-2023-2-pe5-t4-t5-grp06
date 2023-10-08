@@ -1,4 +1,3 @@
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/a642563e-cd2a-477b-bcfb-45f4eeda5d7e)
 # Projeto de Interface
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
