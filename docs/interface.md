@@ -10,8 +10,6 @@ O Projeto de interface foi desenvolvido através da plataforma Figma; Com uma te
 Página Inicial 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/8aeea005-be5d-4217-98a8-c9dc59f1a941)
 
-![e0a8164c-4862-4d94-99e9-7b5a71749892](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/12b37d45-0248-43c0-9e90-6a7d473d33d8)
-
 Na tela inicial teremos no canto superior esquerdo a logo e o nome do site, e logo ao lado direito teremos uma descrição sobre o site; na lateral esquerda estarão localizadas as categorias de enquadramento de cada tipo de jogo; ao centro encontra-se a barra de pesquisa, onde será possível pesquisar os jogos pelo nome;e na lateral direita ficará localizado um chat ao vivo, onde os usuários poderão interagir em tempo real.
 
 Página Download
