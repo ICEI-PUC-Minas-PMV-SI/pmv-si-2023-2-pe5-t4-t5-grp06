@@ -15,14 +15,16 @@ Na tela inicial teremos no canto superior esquerdo a logo e o nome do site, e lo
 Página Download
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/69da3c28-fe8a-45e4-abd3-527fe40d6624)
 Ao o usuário clicar em ''Download'' na Navbar, o site abrirar a página Abaixo da barra de pesquisa teremos indicações de jogos mais relevantes, como por exemplo os jogos mais baixado ou o jogo da semana.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/d21f7190-7e21-4618-a44b-bb3422374464)]
 Ao selecionar um dos jogos aparecerar uma página com a imagem do jogo selecionado, descrição, comentários e a opção de donwload ou jogar.
+
 ![e0a8164c-4862-4d94-99e9-7b5a71749892](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/12b37d45-0248-43c0-9e90-6a7d473d33d8)
 
 
 Ao o usuário clicar em ''Download'' na Navbar, o site abrirar a página Abaixo da barra de pesquisa teremos indicações de jogos mais relevantes, como por exemplo os jogos mais baixado ou o jogo da semana.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/d21f7190-7e21-4618-a44b-bb3422374464)]
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/d21f7190-7e21-4618-a44b-bb3422374464)
 
 Ao selecionar algum jogo haverá a imagem,descrição e os comentários em relação ao mesmo. Logo abaixo será possível clicar em "Jogar" ou em "Download" para baixar o jogo no seu computador.
 
