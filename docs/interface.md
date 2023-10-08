@@ -13,7 +13,22 @@ No canto esquerdo terá um atalho para o usuário buscar jogos através de categ
 
 COMECEI DAQUI! (ARTHUR)
 ![e0a8164c-4862-4d94-99e9-7b5a71749892](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/12b37d45-0248-43c0-9e90-6a7d473d33d8)
-Na tela inicial teremos no canto superior esquerdo a logo e o nome do site; na lateral esquerda estarão localizadas as categorias de enquadramento de cada tipo de jogo; ao centro encontra-se a barra de pesquisa, onde será possível pesquisar os jogos pelo nome;e na lateral direita ficará localizado um chat ao vivo, onde os usuários poderão interagir em tempo real.
+
+Na tela inicial teremos no canto superior esquerdo a logo e o nome do site, e logo ao lado direito teremos uma descrição sobre o site; na lateral esquerda estarão localizadas as categorias de enquadramento de cada tipo de jogo; ao centro encontra-se a barra de pesquisa, onde será possível pesquisar os jogos pelo nome;e na lateral direita ficará localizado um chat ao vivo, onde os usuários poderão interagir em tempo real.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/69da3c28-fe8a-45e4-abd3-527fe40d6624)
+
+Abaixo da barra de pesquisa teremos indicações de jogos mais baixados e mais relevantes.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/d21f7190-7e21-4618-a44b-bb3422374464)]
+
+Ao selecionar algum jogo haverá a imagem,descrição e os comentários em relação ao mesmo. Logo abaixo será possível clicar em "Jogar" ou em "Download" para baixar o jogo no seu computador.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/0a817a9f-9d4b-46c0-9241-f82ed325471b)
+
+Ao clicar na aba "Upload" será possível fazer o upload de um jogo que o usuário possui em seu computador para dentro do site. O usuário poderá nomear o jogo e selecionar a sua categoria.
+
+
 
 ## User Flow -  FIGMA - Interface Geral ![Captura de Tela (97)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0398e245-9983-47d0-93a2-f0ac92e1dacd)
 
