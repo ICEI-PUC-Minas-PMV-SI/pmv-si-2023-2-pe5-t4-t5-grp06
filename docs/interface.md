@@ -11,6 +11,6 @@ Abaixo nota-se uma barra de pesquisa para buscar jogos através do nome
 
 No canto esquerdo terá um atalho para o usuário buscar jogos através de categorias
 
-## User Flow![Captura de Tela (97)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0398e245-9983-47d0-93a2-f0ac92e1dacd)
+## User Flow -  FIGMA ![Captura de Tela (97)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0398e245-9983-47d0-93a2-f0ac92e1dacd)
 
 Portanto, o fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe, e tais funcionalidade e caminhos possíveis pode ser visto através da ''img'' acima. 
