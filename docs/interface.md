@@ -21,8 +21,10 @@ Ao o usuário clicar em ''Download'' na Navbar, o site abrirar a página Abaixo 
 
 Ao selecionar um dos jogos aparecerar uma página com a imagem do jogo selecionado, descrição, comentários e a opção de donwload ou jogar.
 
+Página quando o usário seleciona um jogo para jogar
 ![e0a8164c-4862-4d94-99e9-7b5a71749892](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/12b37d45-0248-43c0-9e90-6a7d473d33d8)
 
+Ao usuario clicar em algum jogo aparecerar uma página do jogo, juntamente com o chat ao vivo.
 
 Página Upload
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/0a817a9f-9d4b-46c0-9241-f82ed325471b)
