@@ -6,20 +6,20 @@
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Apresentamos uma proposta para criação de uma plataforma de jogos web, com o propósito claro de construir uma comunidade sólida em torno dos jogos retrô. Esta plataforma se destacariaao proporcionar uma série de recursos, como fóruns internos para discussões, compartilhamento de memes e espaços para a prática dos jogos. Além disso, ofereceria aos desenvolvedores a
+oportunidade de publicar seus jogos. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Nome completo do aluno 1 - Yan Oyama Moura
+* Nome completo do aluno 2 - Arthur Wan Der Maas Ferreira
+* Nome completo do aluno 3 - Victor Mont Morency Gondim Rodrigues
+* Nome completo do aluno 4 - Mateus Sousa Santos 
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nome completo do professor 1 - Nesley Jesus Daher de Oliveira 
 
 # Planejamento
 
