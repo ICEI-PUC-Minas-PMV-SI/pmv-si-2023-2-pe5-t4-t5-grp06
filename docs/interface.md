@@ -21,6 +21,7 @@ Ao o usuário clicar em ''Download'' na Navbar, o site abrirar a página Abaixo 
 
 Ao selecionar algum jogo haverá a imagem,descrição e os comentários em relação ao mesmo. Logo abaixo será possível clicar em "Jogar" ou em "Download" para baixar o jogo no seu computador.
 
+Página Upload
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/0a817a9f-9d4b-46c0-9241-f82ed325471b)
 
 Ao clicar na aba "Upload" será possível fazer o upload de um jogo que o usuário possui em seu computador para dentro do site. O usuário poderá nomear o jogo e selecionar a sua categoria.
