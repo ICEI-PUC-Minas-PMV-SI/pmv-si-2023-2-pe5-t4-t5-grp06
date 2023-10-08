@@ -18,15 +18,19 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 ![#FFFFFF](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/420a9f28-bd2a-4b7e-a398-31fac0207b6c)
 
 #000000
+
 ![#000000](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/e1519c99-f498-44b5-abec-722b793ea433)
 
 #D2C8E3
+
 ![#D2C8E3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/f0b6a04b-bd62-431d-af83-6f2c58737830)
 
 #EBE397
+
 ![#EBE397](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/e9aa8704-b5ac-41b1-86ec-2f7851283807)
 
 #F464B9
+
 ![#F464B9](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0f895dd9-888f-40cb-a6a6-e7e823144340)
 
 
