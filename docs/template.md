@@ -11,7 +11,17 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+As cores utilizadas remetem a um estilo Retrô ao mesmo tempo trazendo um aspecto moderno que lembram neon, remetendo a um estilo gamaer, contudo as cores mais chamativas não serão predominates, uma vez que a ideia do site é trazer um estilo ''old school(Velha guarda)''. 
+
+![#FFFFFF](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/420a9f28-bd2a-4b7e-a398-31fac0207b6c)
+
+![#000000](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/e1519c99-f498-44b5-abec-722b793ea433)
+
+![#D2C8E3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/f0b6a04b-bd62-431d-af83-6f2c58737830)
+
+![#EBE397](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/e9aa8704-b5ac-41b1-86ec-2f7851283807)
+
+![#F464B9](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0f895dd9-888f-40cb-a6a6-e7e823144340)
 
 
 ## Tipografia
