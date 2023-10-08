@@ -16,9 +16,9 @@ COMECEI DAQUI! (ARTHUR)
 
 Na tela inicial teremos no canto superior esquerdo a logo e o nome do site, e logo ao lado direito teremos uma descrição sobre o site; na lateral esquerda estarão localizadas as categorias de enquadramento de cada tipo de jogo; ao centro encontra-se a barra de pesquisa, onde será possível pesquisar os jogos pelo nome;e na lateral direita ficará localizado um chat ao vivo, onde os usuários poderão interagir em tempo real.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/69da3c28-fe8a-45e4-abd3-527fe40d6624)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/69da3c28-fe8a-45e4-abd3-527fe40d6624) ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/8aeea005-be5d-4217-98a8-c9dc59f1a941)
 
-Abaixo da barra de pesquisa teremos indicações de jogos mais baixados e mais relevantes.
+Abaixo da barra de pesquisa teremos indicações de jogos mais relevantes, como por exemplo os jogos mais baixado ou o jogo da semana.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/d21f7190-7e21-4618-a44b-bb3422374464)]
 
