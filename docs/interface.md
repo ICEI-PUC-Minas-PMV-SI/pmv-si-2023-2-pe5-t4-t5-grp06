@@ -1,4 +1,4 @@
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/a642563e-cd2a-477b-bcfb-45f4eeda5d7e)
 # Projeto de Interface
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
@@ -11,7 +11,12 @@ Abaixo nota-se uma barra de pesquisa para buscar jogos através do nome
 
 No canto esquerdo terá um atalho para o usuário buscar jogos através de categorias
 
+COMECEI DAQUI! (ARTHUR)
+![e0a8164c-4862-4d94-99e9-7b5a71749892](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/147115539/12b37d45-0248-43c0-9e90-6a7d473d33d8)
+Na tela inicial teremos no canto superior esquerdo a logo e o nome do site; na lateral esquerda estarão localizadas as categorias de enquadramento de cada tipo de jogo; ao centro encontra-se a barra de pesquisa, onde será possível pesquisar os jogos pelo nome;e na lateral direita ficará localizado um chat ao vivo, onde os usuários poderão interagir em tempo real.
+
 ## User Flow -  FIGMA - Interface Geral ![Captura de Tela (97)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0398e245-9983-47d0-93a2-f0ac92e1dacd)
 
 
 Portanto, o fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe, e tais funcionalidade e caminhos possíveis pode ser visto através da ''img'' acima. 
+
