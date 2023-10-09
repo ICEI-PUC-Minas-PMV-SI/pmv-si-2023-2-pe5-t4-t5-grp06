@@ -38,8 +38,7 @@ Nintendo switch, entre outros, tem preços bem elevados e as pessoas não querem
    A função da criação desse site, além de preservar a importância de jogos retrô nos tempos atuais, é ser uma plataforma de games retrô "gratuita" e aberta. Então as pessoas podem lançar qualquer tipo de jogo retrô ao seu gosto... A ideia é ser uma plataforma bem intuitiva, onde as pessoas terão espaços para postagem de novos jogos, acesso a fóruns, comentários, feedbacks e rankings de pontuação entre os gamers. E o seu principal objetivo é juntar todo o público que gosta, tem curiosidade ou se sentem atraídos por esse tipo de jogos dos anos 80 nesse site. E assim todos terão acesso a diversos jogos de seu gosto e muitos conteúdos relacionados aos jogos retrô, dessa forma as pessoas, os gamers, desenvolvedores e entusiastas poderão ter uma interatividade muito maior entre si do que 
 apenas jogar esses games.
 
-https://gizmodo.uol.com.br/xbox-recebera-plataforma-com-mais-de-1-300-jogos-retroconfira/#:~:text=More%20videos%20on%20YouTube&text=Embora%20n%C3%A3o%20sejam%20ma
-is%20t%C3%A3o,antigos%20e%20executar%20seus%20games
+https://gizmodo.uol.com.br/xboxreceberaplataformacommaisde1300jogosretroconfira/#:~:text=More%20videos%20on%20YouTube&text=Embora%20n%C3%A3o%20sejam%20mais%20t%C3%A3o,antigos%20e%20executar%20seus%20games
 
 ## Público-Alvo
 
