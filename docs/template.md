@@ -1,9 +1,7 @@
 ## Design
 ![Heiman Software](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/ecea444d-209b-46ad-81fe-4b5c7ce231e8)
 
-
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
-
+No Layout principal optamos por deixar em um estilo mais retrô, que lembram os primeiros sites desenvolvidos em HTML, CSS e JS, além de remeteram a nostalgia e combinar com a temática. Optamos por deixa uma ''navbar'' na parte superior em todas as páginas do site, justamente para auxiliar como forma de atalho. Chat para as pessoas inter-relacionar-se com outras, e compatilharem suas experiências com o universo dos jogos retrô, contudo, chat vai ter a opção de ocutar caso o usuário não queira interagir com outras pessoas. 
 
 ## Cores
 
@@ -28,7 +26,7 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+![Tipografia](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/5a85e04c-c7d2-4461-bb67-b88f741e0a7a)
 
 
 ## Iconografia
@@ -38,11 +36,3 @@ Defina os ícones que serão utilizados e suas respectivas funções.
 Apresente os estilos CSS criados para cada um dos elementos apresentados.
 Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
 
-
-> **Links Úteis**:
->
-> -  [Como criar um guia de estilo de design da Web](https://edrodrigues.com.br/blog/como-criar-um-guia-de-estilo-de-design-da-web/#)
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
