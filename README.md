@@ -8,8 +8,7 @@
 ![Captura de Tela (368)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/81399b30-8486-4ef8-b9d9-4e6932c6719f)
 
 `SEMESTRE: 1º`
-Apresentamos uma proposta para criação de uma plataforma de jogos web, com o propósito claro de construir uma comunidade sólida em torno dos jogos retrô. Esta plataforma se destacariaao proporcionar uma série de recursos, como fóruns internos para discussões, compartilhamento de memes e espaços para a prática dos jogos. Além disso, ofereceria aos desenvolvedores a
-oportunidade de publicar seus jogos. 
+Apresentamos uma proposta para criação de uma plataforma de jogos web, com o propósito claro de construir uma comunidade sólida em torno dos jogos retrô. Esta plataforma se destacará por proporcionar uma série de recursos, como fóruns internos para discussões, compartilhamento de memes e espaços para a prática dos jogos. Além disso, ofereceria aos desenvolvedores a oportunidade de publicar seus jogos. 
 
 ## Integrantes
 
