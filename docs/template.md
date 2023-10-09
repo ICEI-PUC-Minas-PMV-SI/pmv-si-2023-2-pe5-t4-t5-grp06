@@ -31,8 +31,8 @@ No Layout principal optamos por deixar em um estilo mais retrô, que lembram os 
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
+Pesquisar
+![Captura de Tela (375)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/29cad9dd-023a-4556-b40b-5969c8fe4578)
 
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
+
 
