@@ -25,10 +25,6 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ![#EBE397](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/e9aa8704-b5ac-41b1-86ec-2f7851283807)
 
-#F464B9
-
-![#F464B9](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0f895dd9-888f-40cb-a6a6-e7e823144340)
-
 
 ## Tipografia
 
