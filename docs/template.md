@@ -33,7 +33,8 @@ No Layout principal optamos por deixar em um estilo mais retrô, que lembram os 
 
 Pesquisar
 
-![Pesquisar](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/29cad9dd-023a-4556-b40b-5969c8fe4578)
+![(375)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/0140745a-f6c8-4785-a653-f3e8e9a36d9f)
+
 
 
 
