@@ -11,8 +11,7 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-  As cores utilizadas remetem a um estilo Retrô ao mesmo tempo trazendo um aspecto moderno que lembram neon, remetendo a um estilo gamaer, contudo as cores mais chamativas não serão predominates, uma vez que a ideia do site é trazer um estilo ''old school(Velha guarda)''. 
-
+  As cores utilizadas remetem a um estilo Retrô ao mesmo tempo trazendo um aspecto moderno que lembram neon, remetendo a um estilo gamaer, além de combinar com a logo do site,  contudo, as cores mais chamativas não serão predominates, justamente para não poluir o layout.
 #FFFFFF
 
 ![#FFFFFF](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/420a9f28-bd2a-4b7e-a398-31fac0207b6c)
