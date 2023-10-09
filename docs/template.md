@@ -36,5 +36,19 @@ Pesquisar
 
 ![(389)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/9dc2f886-df37-4ef3-bb6a-944f18e7d9a2)
 
+Like
 
+![(390)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/e92d63c5-23e1-4fe4-87fb-1d9bd3a77408)
+
+Deslike
+
+![(391)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/cf368cc8-4df5-4bbf-a608-dfcb6df00b72)
+
+Upload
+
+![(392)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/f5c285db-b0a0-4b32-8564-12db621778b5)
+
+Download
+
+![)](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t4-t5-grp06/assets/127222225/a7f773cb-e739-4816-b178-00acc7e560f0)
 
