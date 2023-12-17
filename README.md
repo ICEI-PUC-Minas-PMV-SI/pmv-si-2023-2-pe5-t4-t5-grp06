@@ -13,10 +13,6 @@ Apresentamos uma proposta para criação de uma plataforma de jogos web, com o p
 ## Integrantes
 
 * Nome completo do aluno 1 - Yan Oyama Moura
-* Nome completo do aluno 2 - Arthur Wan Der Maas Ferreira
-* Nome completo do aluno 3 - Victor Mont Morency Gondim Rodrigues
-* Nome completo do aluno 4 - Mateus Sousa Santos 
-* Nome completo do aluno 5
 
 ## Orientador
 
